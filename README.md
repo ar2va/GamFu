@@ -1,4 +1,4 @@
-﻿# GamFu — فایل نصب gamerFuz
+﻿# GamFu — فایل نصب gamerFuz و Gafu
 
 این مخزن **فقط فایل نصب** است. سورس کد اینجا نیست.
 
@@ -6,9 +6,11 @@
 
 | پلتفرم | نسخه | دانلود |
 | --- | --- | --- |
-| اندروید | 1.0.14 | [**دانلود APK**](https://raw.githubusercontent.com/ar2va/GamFu/main/downloads/gamerFuz-android.apk) |
-| ویندوز | — | به‌زودی |
+| اندروید gamerFuz | 1.0.17 | [**دانلود APK**](https://github.com/ar2va/gamerFuz/releases/download/gamerfuz-v1.0.17/gamerFuz-android.apk) |
+| اندروید Gafu | 1.0.0 | [**دانلود APK**](https://github.com/ar2va/gamerFuz/releases/download/gafu-v1.0.0/gafu-android.apk) |
+| ویندوز gamerFuz | 1.0.0 | [**دانلود Setup**](https://github.com/ar2va/GamFu/raw/main/downloads/gamerFuz-windows-setup.exe) |
 
-لینک اندروید با یک کلیک فایل `gamerFuz-android.apk` را مستقیم دانلود می‌کند (بدون نیاز به لاگین GitHub).
+- **gamerFuz**: VPN بازی با کانفیگ‌های عادی (vless/vmess/…)
+- **Gafu**: کلاینت چندفرمته (.dark / .nm / .npvt / Injector / OpenVPN و لینک‌ها)
 
-پس از نصب، اپ نسخهٔ جدید را از API ادمین و `latest.json` هم چک می‌کند.
+APKهای اندروید روی [Releases ریپوی gamerFuz](https://github.com/ar2va/gamerFuz/releases) هم منتشر می‌شوند.
