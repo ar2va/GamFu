@@ -1,6 +1,6 @@
 ﻿{
   "android": {
-    "version": "1.0.21",
+    "version": "1.0.22",
     "url": "https://raw.githubusercontent.com/ar2va/GamFu/main/downloads/gamerFuz-android.apk"
   },
   "gafu": {
@@ -11,5 +11,5 @@
     "version": "1.0.0",
     "url": "https://github.com/ar2va/GamFu/raw/main/downloads/gamerFuz-windows-setup.exe"
   },
-  "updatedAt": "2026-09-20T09:20:00.0000000Z"
+  "updatedAt": "2026-09-20T09:50:00.0000000Z"
 }
